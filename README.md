@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fizzlewiththesizzle
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python & Web Development
+- 🌱 I’m currently learning Python, Java & Web Development
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me IG@fizzlewiththesizzle 
 
